@@ -9,7 +9,7 @@ let limit = 100000;
 let huntMode = true;
 let moveStack = new Set();
 let maxDensity = {val: 0};
-//test comment
+
 const SHIP_LENGTHS = [2, 3, 3, 4, 5]; 
 
 const easy = () => {
